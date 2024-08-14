@@ -2,7 +2,7 @@
 Sales Analysis Using PowerBi &amp; Excel
 Overview:
 
-A multi-department grocery chain, operating across various locations, seeks to improve its sales analysis and customer insights through data-driven methods in Microsoft Excel. The chain offers an extensive selection of food categories, departments, and brands. To optimize store sales, enhance customer experiences, and refine promotional strategies, the company aims to leverage data analysis. Additionally, the company desires a dashboard that provides a comprehensive view of key insights from the data.
+A multi-department grocery chain, operating across various locations, seeks to improve its sales analysis and customer insights through data-driven methods in Microsoft Excel and PowerBI. The chain offers an extensive selection of food categories, departments, and brands. To optimize store sales, enhance customer experiences, and refine promotional strategies, the company aims to leverage data analysis. Additionally, the company desires a dashboard that provides a comprehensive view of key insights from the data.
 
 Objective:
 
@@ -31,7 +31,7 @@ Exploratory Data Analysis (EDA): Conduct initial analysis to explore sales trend
 
 Detailed Analysis: Examine sales performance by department, location, and product category. Analyze customer purchasing patterns and the impact of marketing strategies.
 
-Dashboard Creation: Develop an interactive dashboard in Microsoft Excel that visualizes the key insights and metrics. Include visualizations such as charts, graphs, and pivot tables to represent sales trends, customer   behavior, and promotional impact.
+Dashboard Creation: Develop an interactive dashboard in Power Bi that visualizes the key insights and metrics. Include visualizations such as charts, graphs, and pivot tables to represent sales trends, customer behavior,and promotional impact.
 
 Actionable Insights and Recommendations: Based on the analysis, provide recommendations for improving sales strategies, enhancing customer experience, and optimizing promotional activities.
 
